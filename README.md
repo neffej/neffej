@@ -2,9 +2,8 @@
 
 - :city_sunrise: I'm a junior web developer specializing in the MERN stack
 - 🔭 I’m currently working on a full-stack project to query and display NASA data
-- 🌱 I’m currently learning React and MongoDB
 -:date: I'm looking forward to improving SQL skills and getting AWS certified!
-- ⚡ Fun fact: I'm a nerd for data, enewable energy and travel 
+- ⚡ Fun fact: I'm a nerd for data, renewable energy and travel 
 
 
 <!--
